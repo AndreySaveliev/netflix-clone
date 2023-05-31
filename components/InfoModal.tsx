@@ -17,7 +17,7 @@ const InfoModel: React.FC<InfoModelProps> = ({ visible, onClose }) => {
 
   const { movieId } = useInfoModel();
 
-  const { data = {} } = useMovie(movieId);
+  const { data = {} } = useMovie(movieId!);
 
   useEffect(() => {
     setVisible(!!visible);
