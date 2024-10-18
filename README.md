@@ -2,8 +2,8 @@
 
 Проект имеет функционал регистрации, логирования, добавляения и удаления фульм в избранное.
 
-![login page](/netflix-clone/screen2.PNG)
-![main page](/netflix-clone/screen1.PNG)
+![login page](/screen2.PNG)
+![main page](/screen1.PNG)
 
 ## Настройка проекта
 
